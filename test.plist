@@ -19,7 +19,7 @@
 				<key>type</key>
 				<string>iOS Distribution</string>
         <key>url</key>
-				<string>iOS url</string>
+				<string>https://raw.githubusercontent.com/StarsYX/HCT_CMCC/master/heChangTong_iphone.ipa</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
