@@ -18,7 +18,7 @@
 				<string>2018/12/14</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
-        <key>url</key>
+        			<key>url</key>
 				<string>https://raw.githubusercontent.com/StarsYX/HCT_CMCC/master/heChangTong_iphone.ipa</string>
 			</dict>
 			<key>entitlements</key>
