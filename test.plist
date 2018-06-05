@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heChangTong_iphone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F742DCDE30D9669D21B57C6F82A1AA5CB9924715</string>
+				<key>dateExpires</key>
+				<string>2018/12/14</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+        <key>url</key>
+				<string>iOS url</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LUPVQ8362M.com.Vstar.heChangTong.iphone</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LUPVQ8362M</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>LUPVQ8362M.com.Vstar.heChangTong.iphone</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>heChangTong_iphone.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9e45edd5-4598-4ae1-ad8b-60d4682a5299</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.Vstar.heChangTong.iphone</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LUPVQ8362M</string>
+				<key>name</key>
+				<string>Beijing Grown Suntech Technology Development Co.,Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
